@@ -1,0 +1,6 @@
+{
+  "name": "FIFA 2026 Game Predict",
+  "description": "FIFA World Cup 2026 prediction and rewards platform with real-time match interaction, live questions, instant scoring, and server-side Gemini-powered insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,3783 @@
+{
+  "paymentConfig": {
+    "entryFee": 500,
+    "prizePool": 250000,
+    "acceptedMethods": [
+      "eSewa",
+      "Khalti"
+    ],
+    "merchantIds": {
+      "eSewa": "ESEW_FIFA26_MERC",
+      "Khalti": "KHALTI_FIFA26_KEY"
+    },
+    "commissionRate": 10
+  },
+  "googleClientId": "",
+  "appUrl": "",
+  "visits": [
+    {
+      "id": "vis_1782018862307_77",
+      "timestamp": "2026-06-21T05:14:22.307Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782018862311_284",
+      "timestamp": "2026-06-21T05:14:22.311Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782018862319_408",
+      "timestamp": "2026-06-21T05:14:22.319Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782018866677_15",
+      "timestamp": "2026-06-21T05:14:26.677Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782018866679_491",
+      "timestamp": "2026-06-21T05:14:26.679Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782018866723_619",
+      "timestamp": "2026-06-21T05:14:26.723Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782018868461_746",
+      "timestamp": "2026-06-21T05:14:28.461Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782018868462_665",
+      "timestamp": "2026-06-21T05:14:28.462Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782018868502_270",
+      "timestamp": "2026-06-21T05:14:28.502Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782018939911_841",
+      "timestamp": "2026-06-21T05:15:39.911Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782018939915_526",
+      "timestamp": "2026-06-21T05:15:39.915Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782018939918_821",
+      "timestamp": "2026-06-21T05:15:39.918Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782018942549_640",
+      "timestamp": "2026-06-21T05:15:42.549Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782018942557_694",
+      "timestamp": "2026-06-21T05:15:42.557Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782018942594_796",
+      "timestamp": "2026-06-21T05:15:42.594Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782018943967_891",
+      "timestamp": "2026-06-21T05:15:43.967Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782018943970_903",
+      "timestamp": "2026-06-21T05:15:43.970Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782018943996_161",
+      "timestamp": "2026-06-21T05:15:43.996Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782018945835_109",
+      "timestamp": "2026-06-21T05:15:45.835Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782018945837_567",
+      "timestamp": "2026-06-21T05:15:45.837Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782018945863_706",
+      "timestamp": "2026-06-21T05:15:45.863Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782019176517_11",
+      "timestamp": "2026-06-21T05:19:36.517Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    },
+    {
+      "id": "vis_1782019176520_888",
+      "timestamp": "2026-06-21T05:19:36.520Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    },
+    {
+      "id": "vis_1782019176552_220",
+      "timestamp": "2026-06-21T05:19:36.552Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    },
+    {
+      "id": "vis_1782019180022_311",
+      "timestamp": "2026-06-21T05:19:40.022Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    },
+    {
+      "id": "vis_1782019180030_249",
+      "timestamp": "2026-06-21T05:19:40.030Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    },
+    {
+      "id": "vis_1782019180031_233",
+      "timestamp": "2026-06-21T05:19:40.031Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    },
+    {
+      "id": "vis_1782019181768_986",
+      "timestamp": "2026-06-21T05:19:41.768Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    },
+    {
+      "id": "vis_1782019181769_979",
+      "timestamp": "2026-06-21T05:19:41.769Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    },
+    {
+      "id": "vis_1782019181772_125",
+      "timestamp": "2026-06-21T05:19:41.773Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    },
+    {
+      "id": "vis_1782019183598_64",
+      "timestamp": "2026-06-21T05:19:43.599Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    },
+    {
+      "id": "vis_1782019183602_734",
+      "timestamp": "2026-06-21T05:19:43.602Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    },
+    {
+      "id": "vis_1782019183603_859",
+      "timestamp": "2026-06-21T05:19:43.603Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    },
+    {
+      "id": "vis_1782019183784_680",
+      "timestamp": "2026-06-21T05:19:43.784Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782019183801_160",
+      "timestamp": "2026-06-21T05:19:43.801Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782019184034_382",
+      "timestamp": "2026-06-21T05:19:44.034Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782019185298_607",
+      "timestamp": "2026-06-21T05:19:45.298Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    },
+    {
+      "id": "vis_1782019185303_354",
+      "timestamp": "2026-06-21T05:19:45.303Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    },
+    {
+      "id": "vis_1782019185304_256",
+      "timestamp": "2026-06-21T05:19:45.304Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    },
+    {
+      "id": "vis_1782019186845_361",
+      "timestamp": "2026-06-21T05:19:46.845Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    },
+    {
+      "id": "vis_1782019186859_245",
+      "timestamp": "2026-06-21T05:19:46.859Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    },
+    {
+      "id": "vis_1782019186866_445",
+      "timestamp": "2026-06-21T05:19:46.866Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    },
+    {
+      "id": "vis_1782019188198_394",
+      "timestamp": "2026-06-21T05:19:48.198Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    },
+    {
+      "id": "vis_1782019188199_969",
+      "timestamp": "2026-06-21T05:19:48.199Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    },
+    {
+      "id": "vis_1782019188202_727",
+      "timestamp": "2026-06-21T05:19:48.202Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    },
+    {
+      "id": "vis_1782019188422_52",
+      "timestamp": "2026-06-21T05:19:48.422Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782019188463_778",
+      "timestamp": "2026-06-21T05:19:48.463Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782019188828_71",
+      "timestamp": "2026-06-21T05:19:48.828Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782019189439_149",
+      "timestamp": "2026-06-21T05:19:49.439Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    },
+    {
+      "id": "vis_1782019189446_403",
+      "timestamp": "2026-06-21T05:19:49.446Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    },
+    {
+      "id": "vis_1782019189454_955",
+      "timestamp": "2026-06-21T05:19:49.454Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    },
+    {
+      "id": "vis_1782019190486_161",
+      "timestamp": "2026-06-21T05:19:50.486Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    },
+    {
+      "id": "vis_1782019190489_679",
+      "timestamp": "2026-06-21T05:19:50.489Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    },
+    {
+      "id": "vis_1782019190503_35",
+      "timestamp": "2026-06-21T05:19:50.503Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    },
+    {
+      "id": "vis_1782019192214_484",
+      "timestamp": "2026-06-21T05:19:52.214Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782019192221_23",
+      "timestamp": "2026-06-21T05:19:52.221Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782019192314_262",
+      "timestamp": "2026-06-21T05:19:52.314Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782019193072_595",
+      "timestamp": "2026-06-21T05:19:53.072Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    },
+    {
+      "id": "vis_1782019193076_997",
+      "timestamp": "2026-06-21T05:19:53.076Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    },
+    {
+      "id": "vis_1782019193083_967",
+      "timestamp": "2026-06-21T05:19:53.083Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    },
+    {
+      "id": "vis_1782019247261_786",
+      "timestamp": "2026-06-21T05:20:47.261Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    },
+    {
+      "id": "vis_1782019247263_217",
+      "timestamp": "2026-06-21T05:20:47.263Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    },
+    {
+      "id": "vis_1782019247272_806",
+      "timestamp": "2026-06-21T05:20:47.272Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    },
+    {
+      "id": "vis_1782019249837_384",
+      "timestamp": "2026-06-21T05:20:49.838Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    },
+    {
+      "id": "vis_1782019249842_22",
+      "timestamp": "2026-06-21T05:20:49.842Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    },
+    {
+      "id": "vis_1782019249862_113",
+      "timestamp": "2026-06-21T05:20:49.862Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    },
+    {
+      "id": "vis_1782019251276_359",
+      "timestamp": "2026-06-21T05:20:51.276Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    },
+    {
+      "id": "vis_1782019251292_496",
+      "timestamp": "2026-06-21T05:20:51.292Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    },
+    {
+      "id": "vis_1782019251298_408",
+      "timestamp": "2026-06-21T05:20:51.298Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    },
+    {
+      "id": "vis_1782019259894_609",
+      "timestamp": "2026-06-21T05:20:59.894Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782019259903_747",
+      "timestamp": "2026-06-21T05:20:59.903Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782019259944_766",
+      "timestamp": "2026-06-21T05:20:59.944Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020125997_270",
+      "timestamp": "2026-06-21T05:35:25.997Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020125998_311",
+      "timestamp": "2026-06-21T05:35:25.998Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020125999_101",
+      "timestamp": "2026-06-21T05:35:25.999Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020126000_895",
+      "timestamp": "2026-06-21T05:35:26.000Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020126012_372",
+      "timestamp": "2026-06-21T05:35:26.012Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020126015_695",
+      "timestamp": "2026-06-21T05:35:26.015Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020126018_401",
+      "timestamp": "2026-06-21T05:35:26.018Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020126019_495",
+      "timestamp": "2026-06-21T05:35:26.019Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020126025_567",
+      "timestamp": "2026-06-21T05:35:26.025Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020126064_673",
+      "timestamp": "2026-06-21T05:35:26.064Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020162268_237",
+      "timestamp": "2026-06-21T05:36:02.268Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020162307_793",
+      "timestamp": "2026-06-21T05:36:02.307Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020162389_812",
+      "timestamp": "2026-06-21T05:36:02.389Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020162409_91",
+      "timestamp": "2026-06-21T05:36:02.409Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020162433_151",
+      "timestamp": "2026-06-21T05:36:02.433Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020197471_664",
+      "timestamp": "2026-06-21T05:36:37.471Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020197473_203",
+      "timestamp": "2026-06-21T05:36:37.473Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020197491_889",
+      "timestamp": "2026-06-21T05:36:37.491Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020198658_261",
+      "timestamp": "2026-06-21T05:36:38.658Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020198659_322",
+      "timestamp": "2026-06-21T05:36:38.659Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020198662_141",
+      "timestamp": "2026-06-21T05:36:38.662Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020198704_3",
+      "timestamp": "2026-06-21T05:36:38.704Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020198710_823",
+      "timestamp": "2026-06-21T05:36:38.710Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020198711_514",
+      "timestamp": "2026-06-21T05:36:38.711Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020198782_358",
+      "timestamp": "2026-06-21T05:36:38.782Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020198880_289",
+      "timestamp": "2026-06-21T05:36:38.880Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020198912_581",
+      "timestamp": "2026-06-21T05:36:38.912Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020198918_974",
+      "timestamp": "2026-06-21T05:36:38.918Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020198922_538",
+      "timestamp": "2026-06-21T05:36:38.922Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020199109_722",
+      "timestamp": "2026-06-21T05:36:39.109Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020199432_168",
+      "timestamp": "2026-06-21T05:36:39.432Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020199433_410",
+      "timestamp": "2026-06-21T05:36:39.433Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020199450_330",
+      "timestamp": "2026-06-21T05:36:39.450Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020199541_358",
+      "timestamp": "2026-06-21T05:36:39.541Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020199552_457",
+      "timestamp": "2026-06-21T05:36:39.552Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020199591_815",
+      "timestamp": "2026-06-21T05:36:39.591Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020199592_65",
+      "timestamp": "2026-06-21T05:36:39.592Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020199628_612",
+      "timestamp": "2026-06-21T05:36:39.628Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020199631_173",
+      "timestamp": "2026-06-21T05:36:39.631Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020199658_273",
+      "timestamp": "2026-06-21T05:36:39.658Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020199665_990",
+      "timestamp": "2026-06-21T05:36:39.665Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020199737_894",
+      "timestamp": "2026-06-21T05:36:39.737Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020200354_151",
+      "timestamp": "2026-06-21T05:36:40.354Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020200358_798",
+      "timestamp": "2026-06-21T05:36:40.358Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020200402_423",
+      "timestamp": "2026-06-21T05:36:40.402Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020282063_127",
+      "timestamp": "2026-06-21T05:38:02.063Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020282082_698",
+      "timestamp": "2026-06-21T05:38:02.082Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020282090_707",
+      "timestamp": "2026-06-21T05:38:02.090Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020284359_455",
+      "timestamp": "2026-06-21T05:38:04.359Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020284360_558",
+      "timestamp": "2026-06-21T05:38:04.360Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020284380_706",
+      "timestamp": "2026-06-21T05:38:04.380Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020284780_398",
+      "timestamp": "2026-06-21T05:38:04.780Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020284781_570",
+      "timestamp": "2026-06-21T05:38:04.781Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020284824_520",
+      "timestamp": "2026-06-21T05:38:04.824Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020284832_202",
+      "timestamp": "2026-06-21T05:38:04.832Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020284885_655",
+      "timestamp": "2026-06-21T05:38:04.885Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020284886_656",
+      "timestamp": "2026-06-21T05:38:04.886Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020284888_693",
+      "timestamp": "2026-06-21T05:38:04.888Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020284937_564",
+      "timestamp": "2026-06-21T05:38:04.937Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020285000_784",
+      "timestamp": "2026-06-21T05:38:05.000Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020285002_723",
+      "timestamp": "2026-06-21T05:38:05.002Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020285005_188",
+      "timestamp": "2026-06-21T05:38:05.005Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020285317_928",
+      "timestamp": "2026-06-21T05:38:05.317Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020311652_879",
+      "timestamp": "2026-06-21T05:38:31.652Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020311656_181",
+      "timestamp": "2026-06-21T05:38:31.656Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020311659_384",
+      "timestamp": "2026-06-21T05:38:31.659Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020311854_363",
+      "timestamp": "2026-06-21T05:38:31.854Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020311866_454",
+      "timestamp": "2026-06-21T05:38:31.866Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020311933_597",
+      "timestamp": "2026-06-21T05:38:31.933Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020691222_793",
+      "timestamp": "2026-06-21T05:44:51.222Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020691223_913",
+      "timestamp": "2026-06-21T05:44:51.223Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782020691279_164",
+      "timestamp": "2026-06-21T05:44:51.280Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782024191218_943",
+      "timestamp": "2026-06-21T06:43:11.228Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782024191258_955",
+      "timestamp": "2026-06-21T06:43:11.258Z",
+      "userId": "guest_anonymous",
+      "userName": "Anonymous Fan",
+      "userEmail": "guest@predictor.com",
+      "userMobile": "",
+      "userCountry": "Nepal",
+      "role": "guest",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    },
+    {
+      "id": "vis_1782024191266_119",
+      "timestamp": "2026-06-21T06:43:11.266Z",
+      "userId": "u_admin_super",
+      "userName": "Sanjit Super Admin",
+      "userEmail": "ranjansanjit@gmail.com",
+      "userMobile": "+977-9800000002",
+      "userCountry": "Nepal",
+      "role": "superadmin",
+      "deviceInfo": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+    }
+  ],
+  "users": [
+    {
+      "id": "u_admin_std",
+      "name": "Sanjit Standard Admin",
+      "username": "sanjit_std",
+      "employeeId": 100,
+      "email": "ranjansanjit2023@gmail.com",
+      "mobile": "+977-9800000001",
+      "country": "Nepal",
+      "role": "admin",
+      "isPaid": true,
+      "points": 9999,
+      "accuracy": 100,
+      "predictionsCompleted": 15,
+      "badge": "World Champion",
+      "rank": 1,
+      "referralCode": "SANJIT2023",
+      "referredCount": 0,
+      "dailyCheckInChain": 0,
+      "nonPredictionPoints": 9999,
+      "winnerPoints": 0,
+      "goalPoints": 0,
+      "newTotalPoints": 0,
+      "calculatedRank": 1,
+      "exactScoreCount": 0,
+      "earliestPredictionTime": null
+    },
+    {
+      "id": "u_admin_super",
+      "name": "Sanjit Super Admin",
+      "username": "sanjit_super",
+      "employeeId": 101,
+      "email": "ranjansanjit@gmail.com",
+      "mobile": "+977-9800000002",
+      "country": "Nepal",
+      "role": "superadmin",
+      "isPaid": true,
+      "points": 9999,
+      "accuracy": 100,
+      "predictionsCompleted": 15,
+      "badge": "World Champion",
+      "rank": 2,
+      "referralCode": "SANJIT_SUPER",
+      "referredCount": 0,
+      "dailyCheckInChain": 0,
+      "nonPredictionPoints": 9999,
+      "winnerPoints": 0,
+      "goalPoints": 0,
+      "newTotalPoints": 0,
+      "calculatedRank": 2,
+      "exactScoreCount": 0,
+      "earliestPredictionTime": null
+    },
+    {
+      "id": "u1",
+      "name": "Sah Rolex",
+      "username": "sah_rolex",
+      "employeeId": 102,
+      "email": "sahrolex10@gmail.com",
+      "mobile": "+977-9812345678",
+      "country": "Nepal",
+      "role": "superadmin",
+      "isPaid": true,
+      "points": 1120,
+      "accuracy": 82,
+      "predictionsCompleted": 14,
+      "badge": "Gold Predictor",
+      "rank": 3,
+      "referralCode": "ROLEX2026",
+      "referredCount": 4,
+      "dailyCheckInChain": 5,
+      "lastCheckIn": "2026-06-08",
+      "nonPredictionPoints": 1120,
+      "winnerPoints": 0,
+      "goalPoints": 0,
+      "newTotalPoints": 0,
+      "calculatedRank": 3,
+      "exactScoreCount": 0,
+      "earliestPredictionTime": 1781845349164
+    },
+    {
+      "id": "u2",
+      "name": "Alex Johnson",
+      "username": "alex",
+      "employeeId": 103,
+      "email": "alex@predict.com",
+      "mobile": "+1-555123456",
+      "country": "USA",
+      "isPaid": true,
+      "points": 1100,
+      "accuracy": 75,
+      "predictionsCompleted": 12,
+      "badge": "Silver Predictor",
+      "rank": 4,
+      "referralCode": "ALEXFIFA",
+      "referredCount": 2,
+      "dailyCheckInChain": 3,
+      "lastCheckIn": "2026-06-09",
+      "nonPredictionPoints": 1100,
+      "winnerPoints": 0,
+      "goalPoints": 0,
+      "newTotalPoints": 0,
+      "calculatedRank": 4,
+      "exactScoreCount": 0,
+      "earliestPredictionTime": null
+    },
+    {
+      "id": "u3",
+      "name": "Rohit Sharma",
+      "username": "rohit",
+      "employeeId": 104,
+      "email": "rohit@fifafan.com",
+      "mobile": "+91-9988776655",
+      "country": "India",
+      "isPaid": false,
+      "points": 400,
+      "accuracy": 60,
+      "predictionsCompleted": 5,
+      "badge": "Bronze Predictor",
+      "rank": 5,
+      "referralCode": "ROHIT2026",
+      "referredCount": 0,
+      "dailyCheckInChain": 1,
+      "lastCheckIn": "2026-06-07",
+      "nonPredictionPoints": 400,
+      "winnerPoints": 0,
+      "goalPoints": 0,
+      "newTotalPoints": 0,
+      "calculatedRank": 5,
+      "exactScoreCount": 0,
+      "earliestPredictionTime": null
+    }
+  ],
+  "matches": [
+    {
+      "id": "m1",
+      "teamA": "Mexico",
+      "teamB": "South Africa",
+      "flagA": "🇲🇽",
+      "flagB": "🇿🇦",
+      "status": "upcoming",
+      "scoreA": 0,
+      "scoreB": 0,
+      "startTime": "2026-06-11T19:00:00Z",
+      "nptTime": "राति 12:45 बजे (11 Jun)",
+      "group": "Group A",
+      "possessionA": 50,
+      "locked": false,
+      "timeline": []
+    },
+    {
+      "id": "m2",
+      "teamA": "Korea Republic",
+      "teamB": "Czechia",
+      "flagA": "🇰🇷",
+      "flagB": "🇨🇿",
+      "status": "upcoming",
+      "scoreA": 0,
+      "scoreB": 0,
+      "startTime": "2026-06-11T15:00:00Z",
+      "nptTime": "साँझ 8:45 बजे (11 Jun)",
+      "group": "Group A",
+      "possessionA": 50,
+      "locked": false,
+      "timeline": []
+    },
+    {
+      "id": "m3",
+      "teamA": "Canada",
+      "teamB": "Bosnia & Herzegovina",
+      "flagA": "🇨🇦",
+      "flagB": "🇧🇦",
+      "status": "upcoming",
+      "scoreA": 0,
+      "scoreB": 0,
+      "startTime": "2026-06-12T15:00:00Z",
+      "nptTime": "साँझ 8:45 बजे (12 Jun)",
+      "group": "Group B",
+      "possessionA": 50,
+      "locked": false,
+      "timeline": []
+    },
+    {
+      "id": "m4",
+      "teamA": "USA",
+      "teamB": "Paraguay",
+      "flagA": "🇺🇸",
+      "flagB": "🇵🇾",
+      "status": "upcoming",
+      "scoreA": 0,
+      "scoreB": 0,
+      "startTime": "2026-06-12T01:00:00Z",
+      "nptTime": "बिहान 6:45 बजे (12 Jun)",
+      "group": "Group D",
+      "possessionA": 50,
+      "locked": false,
+      "timeline": []
+    },
+    {
+      "id": "m5",
+      "teamA": "Brazil",
+      "teamB": "Morocco",
+      "flagA": "🇧🇷",
+      "flagB": "🇲🇦",
+      "status": "upcoming",
+      "scoreA": 0,
+      "scoreB": 0,
+      "startTime": "2026-06-13T00:00:00Z",
+      "nptTime": "बिहान 5:45 बजे (13 Jun)",
+      "group": "Group C",
+      "possessionA": 50,
+      "locked": false,
+      "timeline": []
+    },
+    {
+      "id": "m6",
+      "teamA": "Australia",
+      "teamB": "Türkiye",
+      "flagA": "🇦🇺",
+      "flagB": "🇹🇷",
+      "status": "upcoming",
+      "scoreA": 0,
+      "scoreB": 0,
+      "startTime": "2026-06-13T16:00:00Z",
+      "nptTime": "राति 9:45 बजे (13 Jun)",
+      "group": "Group D",
+      "possessionA": 50,
+      "locked": false,
+      "timeline": []
+    },
+    {
+      "id": "m7",
+      "teamA": "Germany",
+      "teamB": "Curaçao",
+      "flagA": "🇩🇪",
+      "flagB": "🇨🇼",
+      "status": "upcoming",
+      "scoreA": 0,
+      "scoreB": 0,
+      "startTime": "2026-06-14T23:00:00Z",
+      "nptTime": "बिहान 4:45 बजे (14 Jun)",
+      "group": "Group E",
+      "possessionA": 50,
+      "locked": false,
+      "timeline": []
+    },
+    {
+      "id": "m8",
+      "teamA": "Netherlands",
+      "teamB": "Japan",
+      "flagA": "🇳🇱",
+      "flagB": "🇯🇵",
+      "status": "upcoming",
+      "scoreA": 0,
+      "scoreB": 0,
+      "startTime": "2026-06-14T15:00:00Z",
+      "nptTime": "साँझ 8:45 बजे (14 Jun)",
+      "group": "Group F",
+      "possessionA": 50,
+      "locked": false,
+      "timeline": []
+    },
+    {
+      "id": "m9",
+      "teamA": "Spain",
+      "teamB": "Cabo Verde",
+      "flagA": "🇪🇸",
+      "flagB": "🇨🇻",
+      "status": "upcoming",
+      "scoreA": 0,
+      "scoreB": 0,
+      "startTime": "2026-06-15T18:00:00Z",
+      "nptTime": "राति 11:45 बजे (15 Jun)",
+      "group": "Group H",
+      "possessionA": 50,
+      "locked": false,
+      "timeline": []
+    },
+    {
+      "id": "m10",
+      "teamA": "Belgium",
+      "teamB": "Egypt",
+      "flagA": "🇧🇪",
+      "flagB": "🇪🇬",
+      "status": "upcoming",
+      "scoreA": 0,
+      "scoreB": 0,
+      "startTime": "2026-06-15T15:00:00Z",
+      "nptTime": "साँझ 8:45 बजे (15 Jun)",
+      "group": "Group G",
+      "possessionA": 50,
+      "locked": false,
+      "timeline": []
+    },
+    {
+      "id": "m11",
+      "teamA": "France",
+      "teamB": "Senegal",
+      "flagA": "🇫🇷",
+      "flagB": "🇸🇳",
+      "status": "upcoming",
+      "scoreA": 0,
+      "scoreB": 0,
+      "startTime": "2026-06-16T00:00:00Z",
+      "nptTime": "बिहान 5:45 बजे (16 Jun)",
+      "group": "Group I",
+      "possessionA": 50,
+      "locked": false,
+      "timeline": []
+    },
+    {
+      "id": "m12",
+      "teamA": "Argentina",
+      "teamB": "Algeria",
+      "flagA": "🇦🇷",
+      "flagB": "🇩🇿",
+      "status": "upcoming",
+      "scoreA": 0,
+      "scoreB": 0,
+      "startTime": "2026-06-16T03:00:00Z",
+      "nptTime": "बिहान 8:45 बजे (16 Jun)",
+      "group": "Group J",
+      "possessionA": 50,
+      "locked": false,
+      "timeline": []
+    },
+    {
+      "id": "m13",
+      "teamA": "England",
+      "teamB": "Croatia",
+      "flagA": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "flagB": "🇭🇷",
+      "status": "upcoming",
+      "scoreA": 0,
+      "scoreB": 0,
+      "startTime": "2026-06-17T01:00:00Z",
+      "nptTime": "बिहान 6:45 बजे (17 Jun)",
+      "group": "Group L",
+      "possessionA": 50,
+      "locked": false,
+      "timeline": []
+    },
+    {
+      "id": "m14",
+      "teamA": "Portugal",
+      "teamB": "DR Congo",
+      "flagA": "🇵🇹",
+      "flagB": "🇨🇩",
+      "status": "upcoming",
+      "scoreA": 0,
+      "scoreB": 0,
+      "startTime": "2026-06-17T15:00:00Z",
+      "nptTime": "साँझ 8:45 बजे (17 Jun)",
+      "group": "Group K",
+      "possessionA": 50,
+      "locked": false,
+      "timeline": []
+    },
+    {
+      "id": "m15",
+      "teamA": "Colombia",
+      "teamB": "Portugal",
+      "flagA": "🇨🇴",
+      "flagB": "🇵🇹",
+      "status": "upcoming",
+      "scoreA": 0,
+      "scoreB": 0,
+      "startTime": "2026-06-27T00:00:00Z",
+      "nptTime": "बिहान 5:45 बजे (27 Jun)",
+      "group": "Group K",
+      "possessionA": 50,
+      "locked": false,
+      "timeline": []
+    }
+  ],
+  "teams": [
+    {
+      "name": "Mexico",
+      "flag": "🇲🇽",
+      "group": "Group A",
+      "fifaRanking": 15,
+      "coach": "Javier Aguirre",
+      "squad": [
+        "Santiago Giménez",
+        "Guillermo Ochoa",
+        "Edson Álvarez",
+        "Luis Chávez",
+        "Hirving Lozano"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "Quarterfinals (1970, 1986)",
+      "perfHistory": [
+        75,
+        78,
+        80,
+        82,
+        85
+      ]
+    },
+    {
+      "name": "South Africa",
+      "flag": "🇿🇦",
+      "group": "Group A",
+      "fifaRanking": 59,
+      "coach": "Hugo Broos",
+      "squad": [
+        "Percy Tau",
+        "Ronwen Williams",
+        "Teboho Mokoena",
+        "Themba Zwane",
+        "Aubrey Modiba"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "Group Stage (1998, 2002, 2010)",
+      "perfHistory": [
+        60,
+        65,
+        62,
+        68,
+        70
+      ]
+    },
+    {
+      "name": "Korea Republic",
+      "flag": "🇰🇷",
+      "group": "Group A",
+      "fifaRanking": 22,
+      "coach": "Hong Myung-bo",
+      "squad": [
+        "Son Heung-min",
+        "Kim Min-jae",
+        "Lee Kang-in",
+        "Hwang Hee-chan",
+        "Cho Gue-sung"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "4th Place (2002), Round of 16 (2010, 2022)",
+      "perfHistory": [
+        80,
+        82,
+        84,
+        86,
+        88
+      ]
+    },
+    {
+      "name": "Czechia",
+      "flag": "🇨🇿",
+      "group": "Group A",
+      "fifaRanking": 34,
+      "coach": "Ivan Hašek",
+      "squad": [
+        "Patrik Schick",
+        "Tomáš Souček",
+        "Vladimír Coufal",
+        "Adam Hložek",
+        "Jindřich Staněk"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "Runners-up (1934, 1962 as Czechoslovakia)",
+      "perfHistory": [
+        70,
+        72,
+        75,
+        74,
+        76
+      ]
+    },
+    {
+      "name": "Canada",
+      "flag": "🇨🇦",
+      "group": "Group B",
+      "fifaRanking": 40,
+      "coach": "Jesse Marsch",
+      "squad": [
+        "Alphonso Davies",
+        "Jonathan David",
+        "Cyle Larin",
+        "Tajon Buchanan",
+        "Stephen Eustáquio"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "Group Stage (1986, 2022)",
+      "perfHistory": [
+        68,
+        72,
+        75,
+        78,
+        80
+      ]
+    },
+    {
+      "name": "Bosnia & Herzegovina",
+      "flag": "🇧🇦",
+      "group": "Group B",
+      "fifaRanking": 75,
+      "coach": "Sergej Barbarez",
+      "squad": [
+        "Edin Džeko",
+        "Sead Kolašinac",
+        "Ermedin Demirović",
+        "Amar Dedić",
+        "Benjamin Tahirović"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "Group Stage (2014)",
+      "perfHistory": [
+        62,
+        60,
+        65,
+        63,
+        67
+      ]
+    },
+    {
+      "name": "Qatar",
+      "flag": "🇶🇦",
+      "group": "Group B",
+      "fifaRanking": 35,
+      "coach": "Tintín Márquez",
+      "squad": [
+        "Akram Afif",
+        "Almoez Ali",
+        "Hassan Al-Haydos",
+        "Lucas Mendes",
+        "Meshaal Barsham"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "Group Stage (2022)",
+      "perfHistory": [
+        65,
+        70,
+        72,
+        75,
+        73
+      ]
+    },
+    {
+      "name": "Switzerland",
+      "flag": "🇨🇭",
+      "group": "Group B",
+      "fifaRanking": 19,
+      "coach": "Murat Yakin",
+      "squad": [
+        "Granit Xhaka",
+        "Manuel Akanji",
+        "Yann Sommer",
+        "Xherdan Shaqiri",
+        "Breel Embolo"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "Quarterfinals (1934, 1938, 1954)",
+      "perfHistory": [
+        82,
+        84,
+        85,
+        87,
+        86
+      ]
+    },
+    {
+      "name": "Brazil",
+      "flag": "🇧🇷",
+      "group": "Group C",
+      "fifaRanking": 5,
+      "coach": "Dorival Júnior",
+      "squad": [
+        "Vinicius Jr",
+        "Rodrygo",
+        "Alisson Becker",
+        "Marquinhos",
+        "Bruno Guimarães",
+        "Endrick"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "5-Time Champions (1958, 1962, 1970, 1994, 2002)",
+      "perfHistory": [
+        92,
+        90,
+        88,
+        85,
+        87
+      ]
+    },
+    {
+      "name": "Morocco",
+      "flag": "🇲🇦",
+      "group": "Group C",
+      "fifaRanking": 14,
+      "coach": "Walid Regragui",
+      "squad": [
+        "Achraf Hakimi",
+        "Yassine Bounou",
+        "Sofyan Amrabat",
+        "Hakim Ziyech",
+        "Azzedine Ounahi"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "4th Place (2022), Round of 16 (1986)",
+      "perfHistory": [
+        85,
+        88,
+        90,
+        87,
+        85
+      ]
+    },
+    {
+      "name": "Scotland",
+      "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "group": "Group C",
+      "fifaRanking": 39,
+      "coach": "Steve Clarke",
+      "squad": [
+        "Andrew Robertson",
+        "Scott McTominay",
+        "John McGinn",
+        "Billy Gilmour",
+        "Che Adams"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "Group Stage (8 times)",
+      "perfHistory": [
+        68,
+        70,
+        72,
+        74,
+        73
+      ]
+    },
+    {
+      "name": "Haiti",
+      "flag": "🇭🇹",
+      "group": "Group C",
+      "fifaRanking": 86,
+      "coach": "Sébastien Migné",
+      "squad": [
+        "Frantzdy Pierrot",
+        "Duckens Nazon",
+        "Danley Jean Jacques",
+        "Ricardo Adé",
+        "Johny Placide"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "Group Stage (1974)",
+      "perfHistory": [
+        55,
+        58,
+        60,
+        57,
+        59
+      ]
+    },
+    {
+      "name": "USA",
+      "flag": "🇺🇸",
+      "group": "Group D",
+      "fifaRanking": 12,
+      "coach": "Mauricio Pochettino",
+      "squad": [
+        "Christian Pulisic",
+        "Weston McKennie",
+        "Matt Turner",
+        "Timothy Weah",
+        "Folarin Balogun",
+        "Yunus Musah"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "Quarter Finals (2002), Round of 16 (2010, 2014, 2022)",
+      "perfHistory": [
+        75,
+        78,
+        80,
+        72,
+        65
+      ]
+    },
+    {
+      "name": "Paraguay",
+      "flag": "🇵🇾",
+      "group": "Group D",
+      "fifaRanking": 56,
+      "coach": "Gustavo Alfaro",
+      "squad": [
+        "Julio Enciso",
+        "Miguel Almirón",
+        "Gustavo Gómez",
+        "Antonio Sanabria",
+        "Omar Alderete"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "Quarterfinals (2010), Round of 16 (1986, 1998, 2002)",
+      "perfHistory": [
+        65,
+        68,
+        70,
+        72,
+        71
+      ]
+    },
+    {
+      "name": "Australia",
+      "flag": "🇦🇺",
+      "group": "Group D",
+      "fifaRanking": 24,
+      "coach": "Tony Popovic",
+      "squad": [
+        "Mathew Ryan",
+        "Harry Souttar",
+        "Jackson Irvine",
+        "Craig Goodwin",
+        "Mitchell Duke"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "Round of 16 (2006, 2022)",
+      "perfHistory": [
+        72,
+        74,
+        76,
+        75,
+        78
+      ]
+    },
+    {
+      "name": "Türkiye",
+      "flag": "🇹🇷",
+      "group": "Group D",
+      "fifaRanking": 26,
+      "coach": "Vincenzo Montella",
+      "squad": [
+        "Hakan Çalhanoğlu",
+        "Arda Güler",
+        "Kenan Yıldız",
+        "Barış Alper Yılmaz",
+        "Ferdi Kadıoğlu"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "3rd Place (2002), Group Stage (1954)",
+      "perfHistory": [
+        78,
+        80,
+        82,
+        84,
+        85
+      ]
+    },
+    {
+      "name": "Germany",
+      "flag": "🇩🇪",
+      "group": "Group E",
+      "fifaRanking": 11,
+      "coach": "Julian Nagelsmann",
+      "squad": [
+        "Jamal Musiala",
+        "Florian Wirtz",
+        "Kai Havertz",
+        "Antonio Rüdiger",
+        "Joshua Kimmich"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "4-Time Champions (1954, 1974, 1990, 2014)",
+      "perfHistory": [
+        80,
+        82,
+        85,
+        89,
+        90
+      ]
+    },
+    {
+      "name": "Côte d'Ivoire",
+      "flag": "🇨🇮",
+      "group": "Group E",
+      "fifaRanking": 38,
+      "coach": "Emerse Faé",
+      "squad": [
+        "Franck Kessié",
+        "Sébastien Haller",
+        "Simon Adingra",
+        "Ibrahim Sangaré",
+        "Ousmane Diomande"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "Group Stage (2006, 2010, 2014)",
+      "perfHistory": [
+        75,
+        78,
+        80,
+        82,
+        81
+      ]
+    },
+    {
+      "name": "Ecuador",
+      "flag": "🇪🇨",
+      "group": "Group E",
+      "fifaRanking": 30,
+      "coach": "Sebastián Beccacece",
+      "squad": [
+        "Moisés Caicedo",
+        "Piero Hincapié",
+        "Enner Valencia",
+        "Willian Pacho",
+        "Kendry Páez"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "Round of 16 (2006), Group Stage (2002, 2014, 2022)",
+      "perfHistory": [
+        74,
+        76,
+        78,
+        80,
+        82
+      ]
+    },
+    {
+      "name": "Curaçao",
+      "flag": "🇨🇼",
+      "group": "Group E",
+      "fifaRanking": 90,
+      "coach": "Dick Advocaat",
+      "squad": [
+        "Juninho Bacuna",
+        "Leandro Bacuna",
+        "Gervane Kastaneer",
+        "Rangelo Janga",
+        "Eloy Room"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "None (Debutant)",
+      "perfHistory": [
+        50,
+        52,
+        55,
+        54,
+        57
+      ]
+    },
+    {
+      "name": "Netherlands",
+      "flag": "🇳🇱",
+      "group": "Group F",
+      "fifaRanking": 7,
+      "coach": "Ronald Koeman",
+      "squad": [
+        "Virgil van Dijk",
+        "Frenkie de Jong",
+        "Memphis Depay",
+        "Cody Gakpo",
+        "Xavi Simons",
+        "Nathan Aké"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "Runners-up (1974, 1978, 2010), 3rd Place (2014)",
+      "perfHistory": [
+        88,
+        90,
+        89,
+        91,
+        92
+      ]
+    },
+    {
+      "name": "Japan",
+      "flag": "🇯🇵",
+      "group": "Group F",
+      "fifaRanking": 18,
+      "coach": "Hajime Moriyasu",
+      "squad": [
+        "Wataru Endo",
+        "Kaoru Mitoma",
+        "Takefusa Kubo",
+        "Ritsu Doan",
+        "Takumi Minamino"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "Round of 16 (2002, 2010, 2018, 2022)",
+      "perfHistory": [
+        82,
+        85,
+        87,
+        88,
+        89
+      ]
+    },
+    {
+      "name": "Sweden",
+      "flag": "🇸🇪",
+      "group": "Group F",
+      "fifaRanking": 28,
+      "coach": "Jon Dahl Tomasson",
+      "squad": [
+        "Viktor Gyökeres",
+        "Alexander Isak",
+        "Dejan Kulusevski",
+        "Emil Forsberg",
+        "Victor Lindelöf"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "Runners-up (1958), 3rd Place (1950, 1994)",
+      "perfHistory": [
+        76,
+        78,
+        81,
+        80,
+        83
+      ]
+    },
+    {
+      "name": "Tunisia",
+      "flag": "🇹🇳",
+      "group": "Group F",
+      "fifaRanking": 41,
+      "coach": "Fouzai Benzarti",
+      "squad": [
+        "Ellyes Skhiri",
+        "Youssef Msakni",
+        "Montassar Talbi",
+        "Aissa Laidouni",
+        "Wajdi Kechrida"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "Group Stage (6 times)",
+      "perfHistory": [
+        68,
+        70,
+        72,
+        71,
+        74
+      ]
+    },
+    {
+      "name": "Belgium",
+      "flag": "🇧🇪",
+      "group": "Group G",
+      "fifaRanking": 6,
+      "coach": "Domenico Tedesco",
+      "squad": [
+        "Kevin De Bruyne",
+        "Romelu Lukaku",
+        "Jérémy Doku",
+        "Amadou Onana",
+        "Wout Faes"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "3rd Place (2018), 4th Place (1986)",
+      "perfHistory": [
+        86,
+        88,
+        87,
+        89,
+        91
+      ]
+    },
+    {
+      "name": "Egypt",
+      "flag": "🇪🇬",
+      "group": "Group G",
+      "fifaRanking": 31,
+      "coach": "Hossam Hassan",
+      "squad": [
+        "Mohamed Salah",
+        "Mostafa Mohamed",
+        "Trézéguet",
+        "Omar Marmoush",
+        "Mohamed Elneny"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "Group Stage (1934, 1990, 2018)",
+      "perfHistory": [
+        74,
+        76,
+        78,
+        80,
+        83
+      ]
+    },
+    {
+      "name": "IR Iran",
+      "flag": "🇮🇷",
+      "group": "Group G",
+      "fifaRanking": 20,
+      "coach": "Amir Ghalenoei",
+      "squad": [
+        "Mehdi Taremi",
+        "Sardar Azmoun",
+        "Alireza Jahanbakhsh",
+        "Samon Ghoddos",
+        "Alireza Beiranvand"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "Group Stage (6 times)",
+      "perfHistory": [
+        78,
+        81,
+        82,
+        84,
+        85
+      ]
+    },
+    {
+      "name": "New Zealand",
+      "flag": "🇳🇿",
+      "group": "Group G",
+      "fifaRanking": 94,
+      "coach": "Darren Bazeley",
+      "squad": [
+        "Chris Wood",
+        "Liberato Cacace",
+        "Marko Stamenic",
+        "Sarpreet Singh",
+        "Kosta Barbarouses"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "Group Stage (1982, 2010)",
+      "perfHistory": [
+        52,
+        55,
+        58,
+        57,
+        60
+      ]
+    },
+    {
+      "name": "Spain",
+      "flag": "🇪🇸",
+      "group": "Group H",
+      "fifaRanking": 3,
+      "coach": "Luis de la Fuente",
+      "squad": [
+        "Lamine Yamal",
+        "Rodri",
+        "Pedri",
+        "Nico Williams",
+        "Álvaro Morata",
+        "Dani Carvajal"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "Champions (2010), 4th Place (1950)",
+      "perfHistory": [
+        94,
+        96,
+        95,
+        97,
+        98
+      ]
+    },
+    {
+      "name": "Saudi Arabia",
+      "flag": "🇸🇦",
+      "group": "Group H",
+      "fifaRanking": 53,
+      "coach": "Roberto Mancini",
+      "squad": [
+        "Salem Al-Dawsari",
+        "Firas Al-Buraikan",
+        "Mohamed Kanno",
+        "Saud Abdulhamid",
+        "Yasser Al-Shahrani"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "Round of 16 (1994)",
+      "perfHistory": [
+        68,
+        70,
+        73,
+        72,
+        75
+      ]
+    },
+    {
+      "name": "Uruguay",
+      "flag": "🇺🇾",
+      "group": "Group H",
+      "fifaRanking": 11,
+      "coach": "Marcelo Bielsa",
+      "squad": [
+        "Federico Valverde",
+        "Darwin Núñez",
+        "Ronald Araújo",
+        "Rodrigo Bentancur",
+        "Manuel Ugarte"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "2-Time Champions (1930, 1950), 4th Place (2010)",
+      "perfHistory": [
+        88,
+        90,
+        89,
+        91,
+        93
+      ]
+    },
+    {
+      "name": "Cabo Verde",
+      "flag": "🇨🇻",
+      "group": "Group H",
+      "fifaRanking": 65,
+      "coach": "Bubista",
+      "squad": [
+        "Ryan Mendes",
+        "Garry Rodrigues",
+        "Bebé",
+        "Jovane Cabral",
+        "Logan Costa"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "None (Debutant)",
+      "perfHistory": [
+        60,
+        64,
+        62,
+        66,
+        68
+      ]
+    },
+    {
+      "name": "France",
+      "flag": "🇫🇷",
+      "group": "Group I",
+      "fifaRanking": 2,
+      "coach": "Didier Deschamps",
+      "squad": [
+        "Kylian Mbappé",
+        "Antoine Griezmann",
+        "Ousmane Dembélé",
+        "Aurélien Tchouaméni",
+        "William Saliba",
+        "Theo Hernandez"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "2-Time Champions (1998, 2018)",
+      "perfHistory": [
+        95,
+        94,
+        95,
+        92,
+        91
+      ]
+    },
+    {
+      "name": "Senegal",
+      "flag": "🇸🇳",
+      "group": "Group I",
+      "fifaRanking": 21,
+      "coach": "Pape Thiaw",
+      "squad": [
+        "Sadio Mané",
+        "Kalidou Koulibaly",
+        "Nicolas Jackson",
+        "Idrissa Gueye",
+        "Édouard Mendy"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "Quarterfinals (2002), Round of 16 (2022)",
+      "perfHistory": [
+        80,
+        82,
+        85,
+        84,
+        86
+      ]
+    },
+    {
+      "name": "Iraq",
+      "flag": "🇮🇶",
+      "group": "Group I",
+      "fifaRanking": 55,
+      "coach": "Jesús Casas",
+      "squad": [
+        "Aymen Hussein",
+        "Ali Jasim",
+        "Amir Al-Ammari",
+        "Youssef Amyn",
+        "Jalal Hassan"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "Group Stage (1986)",
+      "perfHistory": [
+        65,
+        68,
+        70,
+        72,
+        74
+      ]
+    },
+    {
+      "name": "Norway",
+      "flag": "🇳🇴",
+      "group": "Group I",
+      "fifaRanking": 47,
+      "coach": "Ståle Solbakken",
+      "squad": [
+        "Erling Haaland",
+        "Martin Ødegaard",
+        "Antonio Nusa",
+        "Alexander Sørloth",
+        "Sander Berge"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "Round of 16 (1998)",
+      "perfHistory": [
+        75,
+        78,
+        80,
+        81,
+        84
+      ]
+    },
+    {
+      "name": "Argentina",
+      "flag": "🇦🇷",
+      "group": "Group J",
+      "fifaRanking": 1,
+      "coach": "Lionel Scaloni",
+      "squad": [
+        "Lionel Messi",
+        "Lautaro Martinez",
+        "Emiliano Martinez",
+        "Alexis Mac Allister",
+        "Rodrigo De Paul",
+        "Enzo Fernandez"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "3-Time Champions (1978, 1986, 2022)",
+      "perfHistory": [
+        98,
+        99,
+        97,
+        95,
+        96
+      ]
+    },
+    {
+      "name": "Algeria",
+      "flag": "🇩🇿",
+      "group": "Group J",
+      "fifaRanking": 44,
+      "coach": "Vladimir Petković",
+      "squad": [
+        "Riyad Mahrez",
+        "Said Benrahma",
+        "Amine Gouiri",
+        "Ismaël Bennacer",
+        "Aissa Mandi"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "Round of 16 (2014)",
+      "perfHistory": [
+        72,
+        75,
+        78,
+        76,
+        79
+      ]
+    },
+    {
+      "name": "Austria",
+      "flag": "🇦🇹",
+      "group": "Group J",
+      "fifaRanking": 23,
+      "coach": "Ralf Rangnick",
+      "squad": [
+        "Marcel Sabitzer",
+        "Konrad Laimer",
+        "Christoph Baumgartner",
+        "Michael Gregoritsch",
+        "Kevin Danso"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "3rd Place (1954), 4th Place (1934)",
+      "perfHistory": [
+        78,
+        80,
+        82,
+        81,
+        84
+      ]
+    },
+    {
+      "name": "Jordan",
+      "flag": "🇯🇴",
+      "group": "Group J",
+      "fifaRanking": 68,
+      "coach": "Jamal Sellami",
+      "squad": [
+        "Musa Al-Taamari",
+        "Yazan Al-Naimat",
+        "Ali Olwan",
+        "Nizar Al-Rashdan",
+        "Yazeed Abulaila"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "None (Debutant)",
+      "perfHistory": [
+        60,
+        62,
+        65,
+        63,
+        66
+      ]
+    },
+    {
+      "name": "Portugal",
+      "flag": "🇵🇹",
+      "group": "Group K",
+      "fifaRanking": 8,
+      "coach": "Roberto Martínez",
+      "squad": [
+        "Cristiano Ronaldo",
+        "Bruno Fernandes",
+        "Bernardo Silva",
+        "Rafael Leão",
+        "Rúben Dias",
+        "João Félix"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "3rd Place (1966), 4th Place (2006)",
+      "perfHistory": [
+        90,
+        92,
+        91,
+        93,
+        94
+      ]
+    },
+    {
+      "name": "Colombia",
+      "flag": "🇨🇴",
+      "group": "Group K",
+      "fifaRanking": 9,
+      "coach": "Néstor Lorenzo",
+      "squad": [
+        "Luis Díaz",
+        "James Rodríguez",
+        "Jhon Durán",
+        "Richard Ríos",
+        "Daniel Muñoz"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "Quarterfinals (2014), Round of 16 (1990, 2018)",
+      "perfHistory": [
+        88,
+        90,
+        89,
+        91,
+        92
+      ]
+    },
+    {
+      "name": "Uzbekistan",
+      "flag": "🇺🇿",
+      "group": "Group K",
+      "fifaRanking": 60,
+      "coach": "Srečko Katanec",
+      "squad": [
+        "Eldor Shomurodov",
+        "Abbosbek Fayzullaev",
+        "Oston Urunov",
+        "Jaloliddin Masharipov",
+        "Utkir Yusupov"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "None (Debutant)",
+      "perfHistory": [
+        62,
+        65,
+        68,
+        66,
+        70
+      ]
+    },
+    {
+      "name": "DR Congo",
+      "flag": "🇨🇩",
+      "group": "Group K",
+      "fifaRanking": 58,
+      "coach": "Sébastien Desabre",
+      "squad": [
+        "Yoane Wissa",
+        "Chancel Mbemba",
+        "Meschack Elia",
+        "Samuel Moutoussamy",
+        "Arthur Masuaku"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "Group Stage (1974 as Zaire)",
+      "perfHistory": [
+        62,
+        64,
+        66,
+        65,
+        68
+      ]
+    },
+    {
+      "name": "England",
+      "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "group": "Group L",
+      "fifaRanking": 4,
+      "coach": "Thomas Tuchel",
+      "squad": [
+        "Harry Kane",
+        "Jude Bellingham",
+        "Phil Foden",
+        "Bukayo Saka",
+        "Declan Rice",
+        "John Stones"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "Champions (1966), 4th Place (1990, 2018)",
+      "perfHistory": [
+        92,
+        94,
+        93,
+        95,
+        96
+      ]
+    },
+    {
+      "name": "Croatia",
+      "flag": "🇭🇷",
+      "group": "Group L",
+      "fifaRanking": 10,
+      "coach": "Zlatko Dalić",
+      "squad": [
+        "Luka Modrić",
+        "Mateo Kovačić",
+        "Joško Gvardiol",
+        "Andrej Kramarić",
+        "Ivan Perišić",
+        "Dominik Livaković"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "Runners-up (2018), 3rd Place (1998, 2022)",
+      "perfHistory": [
+        85,
+        87,
+        88,
+        86,
+        89
+      ]
+    },
+    {
+      "name": "Ghana",
+      "flag": "🇬🇭",
+      "group": "Group L",
+      "fifaRanking": 64,
+      "coach": "Otto Addo",
+      "squad": [
+        "Mohammed Kudus",
+        "Inaki Williams",
+        "Thomas Partey",
+        "Jordan Ayew",
+        "Antoine Semenyo"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "Quarterfinals (2010), Round of 16 (2006)",
+      "perfHistory": [
+        64,
+        66,
+        68,
+        67,
+        70
+      ]
+    },
+    {
+      "name": "Panama",
+      "flag": "🇵🇦",
+      "group": "Group L",
+      "fifaRanking": 37,
+      "coach": "Thomas Christiansen",
+      "squad": [
+        "Adalberto Carrasquilla",
+        "José Fajardo",
+        "Aníbal Godoy",
+        "Michael Amir Murillo",
+        "Orlando Mosquera"
+      ],
+      "stats": {
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      "previousWC": "Group Stage (2018)",
+      "perfHistory": [
+        68,
+        70,
+        72,
+        71,
+        74
+      ]
+    }
+  ],
+  "predictions": [
+    {
+      "matchId": "m1",
+      "userId": "u1",
+      "predictedWinner": "B",
+      "predictedScoreA": 1,
+      "predictedScoreB": 2,
+      "firstGoalTeam": "A",
+      "firstGoalScorer": "Christian Pulisic",
+      "totalGoals": 3,
+      "possession": 48,
+      "manOfTheMatch": "Manish Dangi",
+      "status": "pending",
+      "pointsGranted": 0,
+      "id": "pred_876552",
+      "timestamp": "2026-06-19T05:02:29.164Z",
+      "winnerCorrect": false,
+      "scoreCorrect": false,
+      "winnerPointsGranted": 0,
+      "goalPointsGranted": 0
+    }
+  ],
+  "liveQuestions": [
+    {
+      "id": "q_win_m1",
+      "matchId": "m1",
+      "text": "Mexico vs South Africa - २ जनामध्ये कसले जित्छ होला? (Who will win?)",
+      "options": [
+        "Mexico",
+        "DRAW (बराबरी)",
+        "South Africa"
+      ],
+      "points": 50,
+      "expiresAt": "2026-07-11T19:00:00.000Z",
+      "status": "active"
+    },
+    {
+      "id": "q_win_m2",
+      "matchId": "m2",
+      "text": "Korea Republic vs Czechia - २ जनामध्ये कसले जित्छ होला? (Who will win?)",
+      "options": [
+        "Korea Republic",
+        "DRAW (बराबरी)",
+        "Czechia"
+      ],
+      "points": 50,
+      "expiresAt": "2026-07-11T15:00:00.000Z",
+      "status": "active"
+    },
+    {
+      "id": "q_win_m3",
+      "matchId": "m3",
+      "text": "Canada vs Bosnia & Herzegovina - २ जनामध्ये कसले जित्छ होला? (Who will win?)",
+      "options": [
+        "Canada",
+        "DRAW (बराबरी)",
+        "Bosnia & Herzegovina"
+      ],
+      "points": 50,
+      "expiresAt": "2026-07-12T15:00:00.000Z",
+      "status": "active"
+    },
+    {
+      "id": "q_win_m4",
+      "matchId": "m4",
+      "text": "USA vs Paraguay - २ जनामध्ये कसले जित्छ होला? (Who will win?)",
+      "options": [
+        "USA",
+        "DRAW (बराबरी)",
+        "Paraguay"
+      ],
+      "points": 50,
+      "expiresAt": "2026-07-12T01:00:00.000Z",
+      "status": "active"
+    },
+    {
+      "id": "q_win_m5",
+      "matchId": "m5",
+      "text": "Brazil vs Morocco - २ जनामध्ये कसले जित्छ होला? (Who will win?)",
+      "options": [
+        "Brazil",
+        "DRAW (बराबरी)",
+        "Morocco"
+      ],
+      "points": 50,
+      "expiresAt": "2026-07-13T00:00:00.000Z",
+      "status": "active"
+    },
+    {
+      "id": "q_win_m6",
+      "matchId": "m6",
+      "text": "Australia vs Türkiye - २ जनामध्ये कसले जित्छ होला? (Who will win?)",
+      "options": [
+        "Australia",
+        "DRAW (बराबरी)",
+        "Türkiye"
+      ],
+      "points": 50,
+      "expiresAt": "2026-07-13T16:00:00.000Z",
+      "status": "active"
+    },
+    {
+      "id": "q_win_m7",
+      "matchId": "m7",
+      "text": "Germany vs Curaçao - २ जनामध्ये कसले जित्छ होला? (Who will win?)",
+      "options": [
+        "Germany",
+        "DRAW (बराबरी)",
+        "Curaçao"
+      ],
+      "points": 50,
+      "expiresAt": "2026-07-14T23:00:00.000Z",
+      "status": "active"
+    },
+    {
+      "id": "q_win_m8",
+      "matchId": "m8",
+      "text": "Netherlands vs Japan - २ जनामध्ये कसले जित्छ होला? (Who will win?)",
+      "options": [
+        "Netherlands",
+        "DRAW (बराबरी)",
+        "Japan"
+      ],
+      "points": 50,
+      "expiresAt": "2026-07-14T15:00:00.000Z",
+      "status": "active"
+    },
+    {
+      "id": "q_win_m9",
+      "matchId": "m9",
+      "text": "Spain vs Cabo Verde - २ जनामध्ये कसले जित्छ होला? (Who will win?)",
+      "options": [
+        "Spain",
+        "DRAW (बराबरी)",
+        "Cabo Verde"
+      ],
+      "points": 50,
+      "expiresAt": "2026-07-15T18:00:00.000Z",
+      "status": "active"
+    },
+    {
+      "id": "q_win_m10",
+      "matchId": "m10",
+      "text": "Belgium vs Egypt - २ जनामध्ये कसले जित्छ होला? (Who will win?)",
+      "options": [
+        "Belgium",
+        "DRAW (बराबरी)",
+        "Egypt"
+      ],
+      "points": 50,
+      "expiresAt": "2026-07-15T15:00:00.000Z",
+      "status": "active"
+    },
+    {
+      "id": "q_win_m11",
+      "matchId": "m11",
+      "text": "France vs Senegal - २ जनामध्ये कसले जित्छ होला? (Who will win?)",
+      "options": [
+        "France",
+        "DRAW (बराबरी)",
+        "Senegal"
+      ],
+      "points": 50,
+      "expiresAt": "2026-07-16T00:00:00.000Z",
+      "status": "active"
+    },
+    {
+      "id": "q_win_m12",
+      "matchId": "m12",
+      "text": "Argentina vs Algeria - २ जनामध्ये कसले जित्छ होला? (Who will win?)",
+      "options": [
+        "Argentina",
+        "DRAW (बराबरी)",
+        "Algeria"
+      ],
+      "points": 50,
+      "expiresAt": "2026-07-16T03:00:00.000Z",
+      "status": "active"
+    },
+    {
+      "id": "q_win_m13",
+      "matchId": "m13",
+      "text": "England vs Croatia - २ जनामध्ये कसले जित्छ होला? (Who will win?)",
+      "options": [
+        "England",
+        "DRAW (बराबरी)",
+        "Croatia"
+      ],
+      "points": 50,
+      "expiresAt": "2026-07-17T01:00:00.000Z",
+      "status": "active"
+    },
+    {
+      "id": "q_win_m14",
+      "matchId": "m14",
+      "text": "Portugal vs DR Congo - २ जनामध्ये कसले जित्छ होला? (Who will win?)",
+      "options": [
+        "Portugal",
+        "DRAW (बराबरी)",
+        "DR Congo"
+      ],
+      "points": 50,
+      "expiresAt": "2026-07-17T15:00:00.000Z",
+      "status": "active"
+    },
+    {
+      "id": "q_win_m15",
+      "matchId": "m15",
+      "text": "Colombia vs Portugal - २ जनामध्ये कसले जित्छ होला? (Who will win?)",
+      "options": [
+        "Colombia",
+        "DRAW (बराबरी)",
+        "Portugal"
+      ],
+      "points": 50,
+      "expiresAt": "2026-07-27T00:00:00.000Z",
+      "status": "active"
+    }
+  ],
+  "dishHomeQuestions": [
+    {
+      "id": "dh1",
+      "text": "How many active DishHome customers purchased the commercial FIFA World Cup 2026 Package in Nepal today?",
+      "options": [
+        "Below 50,000",
+        "50,000 - 100,000",
+        "100,001 - 150,000",
+        "Above 150,000",
+        "Others (अन्य)"
+      ],
+      "points": 150,
+      "deadline": "2026-06-20T05:02:29.160Z",
+      "correctAnswer": "100,001 - 150,000"
+    }
+  ],
+  "dishHomeUserSubmissions": [
+    {
+      "userId": "u1",
+      "questionId": "dh1",
+      "submittedAnswer": "100,001 - 150,000"
+    },
+    {
+      "userId": "u_admin_super",
+      "questionId": "dh1",
+      "submittedAnswer": "50,000 - 100,000"
+    }
+  ],
+  "userLiveAnswers": [],
+  "chats": [
+    {
+      "id": "ch1",
+      "userName": "Birat Gorkhali",
+      "country": "Nepal",
+      "message": "Jay Nepal! Manish Dangi with the absolute world class header! Let's hold this lead lads!",
+      "timestamp": "2026-06-19T04:57:29.161Z",
+      "reactions": {
+        "🔥": 8,
+        "🙌": 5
+      }
+    },
+    {
+      "id": "ch2",
+      "userName": "Taylor Smith",
+      "country": "USA",
+      "message": "Nepal is playing solid defense. Still plenty of time for Pulisic to save us. Come on, USA!",
+      "timestamp": "2026-06-19T04:59:59.161Z",
+      "reactions": {
+        "⚽": 3,
+        "👀": 2
+      }
+    }
+  ],
+  "winnersTicker": [
+    {
+      "id": "tick1",
+      "text": "Sah Rolex just won NRs. 10,000 for perfect match prediction on USA vs Nepal!"
+    },
+    {
+      "id": "tick2",
+      "text": "Alex Johnson climbed to Silver Predictor badge rank and earned free match ticket!"
+    },
+    {
+      "id": "tick3",
+      "text": "NepaliFan99 predicted exact score of Argentina vs France and secured NRs. 5,000!"
+    }
+  ],
+  "paymentTransactions": [
+    {
+      "id": "tx1",
+      "userId": "u1",
+      "amount": 500,
+      "gateway": "eSewa",
+      "merchantTxId": "ESEW_11029384",
+      "status": "SUCCESS",
+      "timestamp": "2026-06-08T10:30:00Z"
+    },
+    {
+      "id": "tx2",
+      "userId": "u2",
+      "amount": 500,
+      "gateway": "PayPal",
+      "merchantTxId": "PAYPAL_9921782A",
+      "status": "SUCCESS",
+      "timestamp": "2026-06-09T01:15:00Z"
+    }
+  ],
+  "securityLogs": [
+    {
+      "id": "sl1",
+      "timestamp": "2026-06-19T05:02:29.161Z",
+      "type": "SYSTEM",
+      "detail": "FIFA 2026 Game Predict platform engine booted."
+    },
+    {
+      "id": "sl_1782020159446",
+      "timestamp": "2026-06-21T05:35:59.446Z",
+      "type": "AUTH_ADMIN",
+      "detail": "Administrator Sanjit Super Admin (ranjansanjit@gmail.com) logged in successfully."
+    }
+  ],
+  "audit_logs": []
+}
